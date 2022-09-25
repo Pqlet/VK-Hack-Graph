@@ -5,3 +5,6 @@
 - train_graph.ipynb - ноутбук с обучением графовой нейронной сети  
 - gnn_features_cat.ipynb - Получение признаков CLIENT_ID из графовой нейронной сети  
 - gnn_features_cat.ipynb - ноутбук с обучением Catboost на смердженных признаках пользователей и признаков из графовой нейронной сети  
+
+- graph_construction.ipynb - ноутбук с формированием графа
+- Data_Load + Friends_Compression.ipynb -feature selection для датасета с друзьями и сжатие
